@@ -18,8 +18,9 @@ public class TC_login {
 		driver.findElement(By.id("email")).sendKeys("kveereshme111@gmail.com");
 		driver.findElement(By.id("pass")).sendKeys("vskfacebook@111");
 		driver.findElement(By.xpath("//button[.='Log In']")).click();
-		Assert.assertEquals(driver.getTitle(),"Facebook – log in or sign up");
+		Assert.assertEquals(driver.getTitle(),"Facebook â€“ log in or sign up");
 		driver.close();
+		System.out.println("Testing has done");
 		
 	}
 
