@@ -1,0 +1,55 @@
+%%%%%%%% GITHUB INTERVIEW QUASTIONS%%%%%%%%%
+Q 1) What is github 
+Ans: Github ia version control tool which is used to store code written by developer or automation tester
+     in the centralized place whare every one can Access.and edit modifiy also can do.
+
+Q 2) What is git
+Ans: Git is a Local repository we can store our project or Source code before do pull request into remote repo
+
+Q 3) What is repo
+Ans: Repo is a folder structure which is created in github for store project or source code and keep text file and image file
+ 
+Q 4) How to use hithub?
+Ans: The use of github can be explained below:
+     * Install git and create a Github Account.
+     * Create a local git repository.
+     * Add a new file to the repo.
+     * Add a file to the staging environment.
+     * Create a commit.
+     * Create a new branch.
+
+Q 5) How Can We Create A Branch In Github?
+Ans: GitHub has a simple UI for creating branches. Once opened the branch drop-down and it prompts “Find or create a branch.”
+     We need to Type the name of your new branch, then click the “create” button that appears. For retrieving the new branch from GitHub, 
+     we can use the standard Git fetch command.
+
+Q 6) What Is A Github Fork?
+Ans: Fork is a copy of a repository. Forking a repository allows us to freely experiment with the changes without affecting the original project.
+     Most commonly, forks are used to propose changes to someone else’s project or to use someone else’s project as a starting point of our own idea.
+
+Q 7) What Is A Branch On Github?
+Ans: Branch in Git means a lightweight movable pointer to one of these commits. The default branch name in Git is the master. As we initially make commits,
+     we are given a master branch that points to the last commit being made. Every time we commit, it moves forward automatically.
+
+Q 8) Can We Change Our Github Username?
+Ans: We can change our GitHub account name at any time. For this, we need to click the profile picture > Settings > Account Settings > Change Username. 
+     Links to the repositories will redirect to the new URLs, but they should be updated on all other sites because someone who chooses the abandoned username can override the links.
+
+Q 9) How it is possible for a developer to simply update the remote references related to the different objects?
+Ans: This is possible through the Git PUSH. In fact, it is actually the prime function of the same.
+
+Q 10)Is it possible in Git to merge a branch into the master? How can you find the same?
+Ans: Yes, it is possible and the users can easily keep the pace up with the same anytime. The users can directly check the list under the branch section to know more about this.
+
+Q 11)What is gist programming?
+Ans: GitHub provides a hosting service that facilitates a web-based Git repository. It includes all the functionality of Git with additional features added in.
+     The gist is an additional attribute added to GitHub, which facilitates the sharing of code snippets, notes, to do lists, and more. We can save our Gists as secret or public in the repository.
+
+Q 12)What language is used in GIT?
+Ans: C is the programming language that is used for creating Git which ensures that the overheads are reduced.
+
+Q 13)What is cherry-pick in Git?
+Ans: Git cherry-pick is a command that allows the picking of arbitrary Git commits by reference and adding them to the HEAD. Cherry-picking is the process of picking a commit from one branch and applying it to another. It helps in undoing changes.
+
+Q 14)What is origin in Git?
+Ans: Origin refers to the remote repository that a project was originally cloned from and is used instead of the original repository’s URL. This allows for easier referencing.
